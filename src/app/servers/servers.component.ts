@@ -17,7 +17,7 @@ export class ServersComponent implements OnInit{
   }
 
   ngOnInit(){
-
+    console.log("");
   }
 
   onCreateServer() {
